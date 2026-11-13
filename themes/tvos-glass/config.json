@@ -1,0 +1,23 @@
+{
+  "animations": true,
+  "advanced_effects": true,
+  "cinematic_home": true,
+  "columns": 6,
+  "control_center": true,
+  "theme_variant": "night",
+  "dock_blur": true,
+  "dock_even_padding": true,
+  "dock_glass": true,
+  "hero_art": true,
+  "hidden_apps": [
+    "com.google.android.apps.education.cast2class"
+  ],
+  "music_pill": true,
+  "music_pill_corner": "top_right",
+  "show_greeting": false,
+  "show_home_settings_shortcut": true,
+  "tile_tilt": true,
+  "uniform_tiles": true,
+  "wallpaper": true,
+  "wallpaper_true_color": true
+}

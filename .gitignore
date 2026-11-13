@@ -1,0 +1,8 @@
+launcher/.gradle/
+launcher/build/
+launcher/app/build/
+launcher/local.properties
+tools/venv/
+*.iml
+.DS_Store
+docs/tvos-skin/*.png
